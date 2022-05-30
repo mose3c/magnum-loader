@@ -1,5 +1,7 @@
 #include "common.h"
 
+//version 2
+
 // http parser by hex
 std::string HttpParser(const char* rData)
 {  
