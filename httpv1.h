@@ -1,5 +1,5 @@
 #include "common.h"
-
+//version1
 
 SOCKET fConnect(const char* host , const char* port)
 {
